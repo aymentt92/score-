@@ -416,13 +416,22 @@ pour la troisième page: Afficher un formulaire pour améliorer le site, permett
 
 
 
-diagramme 
+diagramme de sequence
+
+<img width="835" height="795" alt="Capture diagramme de seq classement" src="https://github.com/user-attachments/assets/aa13ab36-7676-4e1a-af7b-41ebb1e6c0d7" />
+
+<img width="933" height="773" alt="Capture diagramme de seq score" src="https://github.com/user-attachments/assets/15d9c9d0-5077-42ec-8b15-df5f84474383" />
+
+<img width="531" height="556" alt="Capture diagramme de sequence matchs a venir" src="https://github.com/user-attachments/assets/38789dc9-8d10-44de-977f-323718e23ace" />
+
+<img width="757" height="627" alt="Capture diagramme de seq avis" src="https://github.com/user-attachments/assets/c429fbda-1428-4ec3-b845-0e7288f41f6f" />
 
 
-<img width="808" height="634" alt="diagramme de sequence" src="https://github.com/user-attachments/assets/daf915f5-827a-4d83-a5a4-0428ae3025a5" />
-
+diagramme cas d'utilisation
 
 <img width="834" height="666" alt="diagramme cas d'utilisation" src="https://github.com/user-attachments/assets/cd58fcd8-fbc2-41dd-b3f2-b067ce78b4ba" />
 
+
+diagramme d'exigence
 
 <img width="828" height="722" alt="diagramme d'exigence sin" src="https://github.com/user-attachments/assets/b81b4f71-58c0-4fec-9dbb-614879b4e914" />
