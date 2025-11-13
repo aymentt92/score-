@@ -429,7 +429,8 @@ diagramme de sequence
 
 diagramme cas d'utilisation
 
-<img width="834" height="666" alt="diagramme cas d'utilisation" src="https://github.com/user-attachments/assets/cd58fcd8-fbc2-41dd-b3f2-b067ce78b4ba" />
+<img width="1146" height="790" alt="diagramme cas d&#39;utilisation" src="https://github.com/user-attachments/assets/56d6da10-18c1-48ca-9b8e-0055a83f0108" />
+
 
 
 diagramme d'exigence
