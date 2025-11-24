@@ -1,4 +1,4 @@
-
-
-
+https://api.sportmonks.com/v3/football/leagues/date/2025-11-24?include=today.scores;today.participants;today.stage;today.group;today.round&api_token=hlE5BpN8wXiC8J73GeKXI1uKSmVRVP4ONEit7qzTpS9DarJLq1j8cSIgbhVR
+https://api.sportmonks.com/v3/football/standings/seasons/25659?include=participant;rule.type;details.type;form;stage;league;group&api_token=hlE5BpN8wXiC8J73GeKXI1uKSmVRVP4ONEit7qzTpS9DarJLq1j8cSIgbhVR
+https://api.sportmonks.com/v3/football/livescores/inplay?include=participants;scores;periods;events;league.country;round&api_token=hlE5BpN8wXiC8J73GeKXI1uKSmVRVP4ONEit7qzTpS9DarJLq1j8cSIgbhVR
 
