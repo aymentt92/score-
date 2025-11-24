@@ -1,6 +1,28 @@
 body{
 background-image: url('fond.png')
 }
+body {
+  background-image: url('fond.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 60% center;
+  background-position: center 10%;
+}
 button{
-    background-color: red;
+    background-color: rgb(247, 238, 238);
+}
+button{
+    background-color: rgb(247, 238, 238);
+    /* style... */
+    position: fixed;
+    left: 50%;
+    bottom: 20px; /* espace depuis le bas de la page, ajuste selon tes besoins */
+    transform: translateX(-50%);
+    /* autres styles si tu veux */
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    font-size: 35px;
+    padding: 50px 60px;
+
 }
