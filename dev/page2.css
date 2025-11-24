@@ -4,3 +4,10 @@ background-image: url('fond.png')
 button{
     background-color: red;
 }
+body {
+  background-image: url('fond.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 60% center;
+  background-position: center 10%;
+}
